@@ -1,4 +1,4 @@
-
+settings.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +102,4 @@ ENV/
 .mypy_cache/
 
 *.sqlite3
+
